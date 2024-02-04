@@ -8,8 +8,8 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## Tech Stack
 
-Next.js
-Typescript
+Next.js,
+Typescript,
 Tailwindcss
 
 ## Getting Started
